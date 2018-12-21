@@ -1,19 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-<<<<<<< HEAD
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.example.lauti.entregable2"
+        applicationId "com.example.lauti.intromoviles"
         minSdkVersion 14
         targetSdkVersion 27
-=======
-    compileSdkVersion 28
-    defaultConfig {
-        applicationId "com.example.fernando.entregable4"
-        minSdkVersion 15
-        targetSdkVersion 28
->>>>>>> 75b014ff737176574611bf313420913f15b968c9
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
@@ -28,11 +20,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-<<<<<<< HEAD
     implementation 'com.android.support:appcompat-v7:27.1.1'
-=======
-    implementation 'com.android.support:appcompat-v7:28.0.0'
->>>>>>> 75b014ff737176574611bf313420913f15b968c9
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
