@@ -1,0 +1,9 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">Entregable2</string>
+=======
+    <string name="app_name">Entregable4</string>
+    <string name="textView" > </string>
+    <string name="textButton">INTENT SERVICE</string>
+>>>>>>> 75b014ff737176574611bf313420913f15b968c9
+</resources>
